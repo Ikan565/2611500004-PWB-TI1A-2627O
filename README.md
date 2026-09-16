@@ -1,2 +1,7 @@
-# 2611500004-PWB-TI1A-2627O
-Repository Latihan Pertemuan-1 sampai dengan Pertemuan-16 Matakuliah Pemrograman Web Dasar Kelompok TI1A Tahun Ajaran 2025/2026 Semester Gasal
+Pemprograman web dasar 
+Fungsi: identitas dan gambaran umum repository
+# Pemrograman Web Dasar
+Nama: joevrell cleonaldo liong 
+NIM: 2611500004
+Kelompok: TI1A
+Tahun Ajaran: 2026/2027 Gasal
